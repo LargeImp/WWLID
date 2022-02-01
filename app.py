@@ -334,7 +334,7 @@ if read_old_fic > top1 :
     top1 = read_old_fic
     top12 = 'read a fic from your yesteryears'
     truth = 'We were all messy once, and honestly most of us still are. Weather you are still reading fic every day or haven’t touched the stuff in years, think of a fic you used to be obsessed with, reading it all in one weekend or always waiting for update and track it down and give it a quick reread. Try and find something from at least three years ago, longer if you’ve got it and revisit it. Live text a friend from the fandom if you still have one or just laugh to yourself about and see if it lives up to all the hype you had at the time. But remember to be kind to present and past you however. '
-    vibe = './BIG EYES'
+    vibe = './BIG EYES.jfif'
 if read_smut_newkink > top1 :
     top1 = read_smut_newkink
     top12 ='read some smut and see if ur strong enough to not develop a new kink'
